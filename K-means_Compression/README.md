@@ -1,3 +1,4 @@
+## K-means_Compression
 Here you are asked to choose the number of colors you want your input image to be compressed to; then the clustering algorithm appears. However, there are many other ways to compress images much more efficiently. Here are some examples:
 
 ![Example1](./Examples/River_2.jpg)

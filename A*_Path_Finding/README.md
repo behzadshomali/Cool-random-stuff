@@ -17,8 +17,9 @@ After setting everything, to run the pathfinder algorithm you just need to press
 
 Here is a demo illustrating how it works:
 
-Found the path:
-![There is a path!](Path_found.gif)
+At least there exist one path | There is no path
+:------------------------:|:------------------------:
+<img src="Path_found.gif" width=90%>|<img src="Path_not_found.gif" width=90%>
 
-There is no path:
-![There is no path!](Path_not_found.gif)
+
+

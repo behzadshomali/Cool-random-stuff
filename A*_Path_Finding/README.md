@@ -1,5 +1,8 @@
-# A* Path Finding
+# Path Finding (BFS / A*)
 According to Wikipedia:
+
+> Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root and explores all of the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level.
+
 > A* is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency.
 
 
@@ -7,7 +10,7 @@ According to Wikipedia:
 You only need to have Python3.x and  Pygame installed on your system.
 
 ## How to work with this?
-First, when you run the code, you'll be asked for inputting two numbers:
+First, when you run the code, you'll be asked to input two numbers and the approach you prefer to search through the map:
 1. Number of blocks in each row/column
 2. Width/Height of your intended window to be shown
 
@@ -17,9 +20,10 @@ After setting everything, to run the pathfinder algorithm you just need to press
 
 Here is a demo illustrating how it works:
 
-At least there exist one path | There is no path
+A* approach | BFS approach
 :------------------------:|:------------------------:
-<img src="Path_found.gif" width=90%>|<img src="Path_not_found.gif" width=90%>
-
+<img src="Path_found.gif" width=90%>|<img src="BFS_found.gif" width=90%>
+There doesn't exist a way
+<img src="Path_not_found.gif" width=90%>
 
 

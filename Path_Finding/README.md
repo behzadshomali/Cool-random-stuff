@@ -24,6 +24,6 @@ A* approach | BFS approach
 :------------------------:|:------------------------:
 <img src="Path_found.gif" width=90%>|<img src="BFS_found.gif" width=90%>
 There doesn't exist a way
-<img src="Path_not_found.gif" width=90%>
+<img src="Path_not_found.gif" width=90%> | 
 
 

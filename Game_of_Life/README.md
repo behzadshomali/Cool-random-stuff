@@ -7,4 +7,4 @@ I've implented this game by Python and also added plenty of methods that draw so
 * Glider
 
 Here is an example demonstrating how it works:
-![Game of Life example illustrating how it works](Game_of_Life.gif)
+<img src="./Game_of_Life.gif" width="75%">

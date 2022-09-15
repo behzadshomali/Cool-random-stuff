@@ -1,4 +1,3 @@
-# Cool
-I will upload every piece of codes that are cool to me. These cool codes may include a Coursera course side projetc or can be a simple zero-player game which is played in Terminal!!!
+# Cool Random Stuff!
 
-![Hello, world](http://i.imgur.com/c7GmAJf.png)
+This repository contains every random piece of code that I have found **Cool**! Moreover, it is the result of merging two of my public repositories known as *Cool* and *Algorithms*. Here, you'll find everything from simple multiline scripts to some well-known algorithms such as *Shunting yard* or *Huffman compression* algorithms.

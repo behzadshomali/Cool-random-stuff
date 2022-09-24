@@ -31,4 +31,17 @@ This repository contains every random piece of code that I have found **Cool**! 
 
 A* search | BFS search | No way :/
 :---:|:---:|:---:
-<img src="./Path_Finding/Path_found.gif" width=85%> | <img src="./Path_Finding/BFS_found.gif" width=85%> | <img src="./Path_Finding/Path_not_found.gif">
+<img src="./Path_Finding/Path_found.gif" width=95%> | <img src="./Path_Finding/BFS_found.gif" width=95%> | <img src="./Path_Finding/Path_not_found.gif">
+
+* [Shunting Yard algorithm](/Shunting_Yard_Algorithm/): a `C++` implementation of the Shunting Yard algorithm which is used for parsing mathematical expressions specified in infix notation.
+
+<p align=center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shunting_yard.svg/1000px-Shunting_yard.svg.png" width=50%>
+</p>
+<p align=center>Image source: <a href=https://en.wikipedia.org/wiki/Shunting_yard_algorithm>wikipedia.org</a>
+
+* [Sudoku solver](/Sudoku/): a Sudoku solver implemented in `Python`. It uses backtracking algorithm to solve the given table (the empty cells are specified with *0*).
+
+<p align=center>
+<img src="./Sudoku/Sudoku.gif" width=50%>
+</p>

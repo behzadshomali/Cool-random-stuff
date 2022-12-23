@@ -2,7 +2,7 @@
 
 This repository contains every random piece of code that I have found **Cool**! Moreover, it is the result of merging two of my public repositories known as *Cool* and *Algorithms*. Here, you'll find everything from simple multiline scripts to some well-known algorithms such as *Shunting yard* or *Huffman compression* algorithms (mostly from my junior and sophomore years at university). Below, you can find the alphabetically ordered list of this repo's contents as well as a brief description for each:
 
-* [Arxiv PDF renamer](/arxiv_pdf_renamer.py): If you work with [arxiv.org](https://arxiv.org/), you'll probably know that how pain it is when you download a paper from arxiv and then you have to rename it to something meaningful. You can use this script to automatically rename the PDF files downloaded from arxiv to the following format: `title.pdf`.
+* [Arxiv PDF renamer](/arxiv_pdf_renamer.py): If you've worked with [arxiv.org](https://arxiv.org/), you'll probably know how painful it is when you download a paper from arxiv and then have to rename it to something meaningful. However, you can use this script to automatically rename the PDF files downloaded from arxiv to the following format: `title.pdf`.
 
 * [Backup](/Backup.py): a small `Python` script that allows you temporarily back up the existing files under the current directory to `/tmp/` on your UNIX machine.
 
